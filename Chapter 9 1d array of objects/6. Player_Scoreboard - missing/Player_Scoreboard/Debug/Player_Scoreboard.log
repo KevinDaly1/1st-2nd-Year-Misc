@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\kevin\source\repos\Chapter 9 1d array of objects\6. Player_Scoreboard - missing\Player_Scoreboard\Game.cpp(79,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Generating Code...
+  Player_Scoreboard.vcxproj -> C:\Users\kevin\source\repos\Chapter 9 1d array of objects\6. Player_Scoreboard - missing\Debug\Player_Scoreboard.exe

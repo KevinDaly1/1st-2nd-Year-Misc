@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\kevin\source\repos\Labsheet 6 Vending Machine\Labsheet 6 Vending Machine\main.cpp(51,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\Labsheet 6 Vending Machine\Labsheet 6 Vending Machine\main.cpp(52,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\Labsheet 6 Vending Machine\Labsheet 6 Vending Machine\main.cpp(53,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Labsheet 6 Vending Machine.vcxproj -> C:\Users\kevin\source\repos\Labsheet 6 Vending Machine\Debug\Labsheet 6 Vending Machine.exe

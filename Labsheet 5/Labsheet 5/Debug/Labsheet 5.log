@@ -1,0 +1,6 @@
+﻿  Part3.cpp
+C:\Users\kevin\source\repos\Labsheet 5\Labsheet 5\Part3.cpp(34,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Part4.cpp
+C:\Users\kevin\source\repos\Labsheet 5\Labsheet 5\Part4.cpp(40,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Labsheet 5.vcxproj -> C:\Users\kevin\source\repos\Labsheet 5\Debug\Labsheet 5.exe

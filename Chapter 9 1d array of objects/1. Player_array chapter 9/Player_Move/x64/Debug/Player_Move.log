@@ -1,0 +1,6 @@
+﻿  Game.cpp
+  Player.cpp
+C:\Users\kevin\source\repos\1. Player_array chapter 9\Player_Move\Player.cpp(36,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kevin\source\repos\1. Player_array chapter 9\Player_Move\Player.cpp(36,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

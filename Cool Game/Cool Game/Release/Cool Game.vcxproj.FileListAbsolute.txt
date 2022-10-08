@@ -1,0 +1,2 @@
+C:\Users\kevin\source\repos\Cool Game\Release\ASSETS\FONTS\ariblk.ttf
+C:\Users\kevin\source\repos\Cool Game\Release\ASSETS\IMAGES\SFML-LOGO.png

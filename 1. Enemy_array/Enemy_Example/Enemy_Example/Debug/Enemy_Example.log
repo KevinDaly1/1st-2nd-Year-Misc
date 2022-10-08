@@ -1,0 +1,4 @@
+﻿  Enemy.cpp
+C:\Users\kevin\source\repos\1. Enemy_array\Enemy_Example\Enemy_Example\Enemy.cpp(85,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kevin\source\repos\1. Enemy_array\Enemy_Example\Enemy_Example\Enemy.cpp(85,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy_Example.vcxproj -> C:\Users\kevin\source\repos\1. Enemy_array\Enemy_Example\Debug\Enemy_Example.exe

@@ -1,0 +1,24 @@
+﻿  Game.cpp
+C:\Users\kevin\source\repos\Player - Template\Enemy_Example\Game.cpp(76,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+C:\Users\kevin\source\repos\Player - Template\Enemy_Example\Player.cpp(16,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\kevin\source\repos\Player - Template\Enemy_Example\Player.cpp(17,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\kevin\source\repos\Player - Template\Enemy_Example\Player.cpp(52,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kevin\source\repos\Player - Template\Enemy_Example\Player.cpp(52,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kevin\source\repos\Player - Template\Enemy_Example\Player.cpp(85,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kevin\source\repos\Player - Template\Enemy_Example\Player.cpp(85,21): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kevin\source\repos\Player - Template\Enemy_Example\Player.cpp(88,29): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Enemy_Example.vcxproj -> C:\Users\kevin\source\repos\Player - Template\Debug\PlayerProject.exe

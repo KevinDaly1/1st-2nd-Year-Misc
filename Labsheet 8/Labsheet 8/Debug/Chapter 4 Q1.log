@@ -1,0 +1,9 @@
+﻿  part1(A).cpp
+C:\Users\kevin\source\repos\Labsheet 8\Chapter 4 Q1\part1(A).cpp(34,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  part1(B).cpp
+C:\Users\kevin\source\repos\Labsheet 8\Chapter 4 Q1\part1(B).cpp(38,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  part2(A).cpp
+  part2(B).cpp
+  part4.cpp
+  Generating Code...
+  Chapter 4 Q1.vcxproj -> C:\Users\kevin\source\repos\Labsheet 8\Debug\Chapter 4 Q1.exe

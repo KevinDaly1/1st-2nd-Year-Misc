@@ -1,0 +1,4 @@
+﻿  Q6.cpp
+C:\Users\kevin\source\repos\Labsheet 10\Labsheet 10\Q6.cpp(43,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\kevin\source\repos\Labsheet 10\Labsheet 10\Q6.cpp(162,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Labsheet 10.vcxproj -> C:\Users\kevin\source\repos\Labsheet 10\Debug\Labsheet 10.exe

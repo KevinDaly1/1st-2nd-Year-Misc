@@ -1,0 +1,5 @@
+﻿  Dice.cpp
+  Game.cpp
+C:\Users\kevin\source\repos\Q2 - Dice Game\Dice Game - Template\Dice Game\Game.cpp(72,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Dice Game.vcxproj -> C:\Users\kevin\source\repos\Q2 - Dice Game\Dice Game - Template\Debug\Dice Game.exe
